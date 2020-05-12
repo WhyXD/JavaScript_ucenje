@@ -18,3 +18,4 @@ rl.question("a ali b  ", function(answer) {
        }
        rl.close();
     });
+    console.log("test je uspel")
